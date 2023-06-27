@@ -1,0 +1,14 @@
+c:\users\programmist\documents\visual studio 2015\Projects\programma\programma\bin\Debug\programma.exe.config
+c:\users\programmist\documents\visual studio 2015\Projects\programma\programma\bin\Debug\programma.exe
+c:\users\programmist\documents\visual studio 2015\Projects\programma\programma\bin\Debug\programma.pdb
+c:\users\programmist\documents\visual studio 2015\Projects\programma\programma\obj\Debug\programma.csprojResolveAssemblyReference.cache
+c:\users\programmist\documents\visual studio 2015\Projects\programma\programma\obj\Debug\programma.csproj.ResolveComReference.cache
+c:\users\programmist\documents\visual studio 2015\Projects\programma\programma\obj\Debug\programma.Form1.resources
+c:\users\programmist\documents\visual studio 2015\Projects\programma\programma\obj\Debug\programma.Properties.Resources.resources
+c:\users\programmist\documents\visual studio 2015\Projects\programma\programma\obj\Debug\programma.csproj.GenerateResource.Cache
+c:\users\programmist\documents\visual studio 2015\Projects\programma\programma\obj\Debug\programma.exe
+c:\users\programmist\documents\visual studio 2015\Projects\programma\programma\obj\Debug\programma.pdb
+D:\Документы\Кгэу(часть №4)\C#\programma\programma\bin\Debug\programma.exe.config
+D:\Документы\Кгэу(часть №4)\C#\programma\programma\obj\Debug\programma.csproj.ResolveComReference.cache
+D:\Документы\Кгэу(часть №4)\C#\programma\programma\obj\Debug\programma.exe
+D:\Документы\Кгэу(часть №4)\C#\programma\programma\obj\Debug\programma.pdb
